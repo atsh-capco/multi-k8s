@@ -20,4 +20,4 @@ after_success:
     - docker push tshala/multi-client
     - docker push tshala/multi-nginx
     - docker push tshala/multi-server
-    - docker push ttshala/multi-worker
+    - docker push tshala/multi-worker
